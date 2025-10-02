@@ -1,0 +1,41 @@
+- company: Artificial Intelligence Laboratory
+  roles:
+    - role: Graduate AI/Cybersecurity Research Assistant 
+      details: |
+       - Developed and tested a phishing URL detection model using deep learning and explainable AI (XAI) frameworks to improve interpretability of model predictions
+      date: 08.2025  - Present
+
+- company: Eller College of Management MIS Department
+  page: 1
+  roles: 
+    - role: Graduate Research Assistant 
+      details: |
+       -  Collaborated with senior staff on exploration and evaluation of new virtualization technologies, including assessing tradeoffs in performance, scalability, and security
+      date: 08.2025 - Present    
+
+#    - role: Junior Software Developer
+#      tools: HTML, PHP, CSS
+#      date: 10.2018 - 06.2019
+#      details: |
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#        Aenean nec volutpat arcu. Maecenas quis tempus risus.
+
+- company: AZ Cyber Initiative
+  page: 1
+  roles:
+    - role: Cyber Intern
+      details: |
+       -  Assisted in the development of a curriculum aimed at preparing learners for future careers in cybersecurity and artificial intelligence
+       -  Analyzed learner engagement data to derive useful insights and presented findings to company shareholders  
+       -  Researched and evaluated emerging AI technologies to ensure alignment with current industry trends
+      date: 05.2025 - 08.2025
+
+- company: University of Arizona IT Services
+  page: 1
+  roles:
+   - role: Technical Consultant
+     details: |
+      - Resolved over 1300 technical issues with university services by implementing troubleshooting techniques and efficient solutions that optimize the user experience
+      - Diagnosed and provided solutions for complex hardware and software issues to ensure seamless daily operations for faculty, staff, and students
+      - Executed incident response strategies to swiftly contain and remediate security breaches
+     date: 02.2022 - 05.2025

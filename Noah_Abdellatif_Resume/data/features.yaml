@@ -1,0 +1,52 @@
+about:
+  name: Noah Abdellatif
+  tagline: Graduate Research Assistant 
+  phone: (623) 680-1411
+  email: nabdellatif@arizona.edu
+  links:
+    - title: /in/nabdellatif
+      url: https://www.linkedin.com/in/noah-abdellatif/
+      icon: fab fa-linkedin
+
+  details: |
+    MSMIS candidate with 3+ years of experience as a Technical Consultant. Knowledge of cloud infrastructures, machine learning frameworks, and containers with programming skills in Python, SQL, and Linux. Seeking a role in Cybersecurity to leverage my technical expertise and problem-solving skills toward developing secure systems. 
+
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - Postgres - Tableau - PowerBI
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - SQL - Excel - Machine Learning
+
+  - groupName: Programming & Systems
+    list:
+      - Git - Docker - Linux
+      - Windows - MacOS
+
+interests:
+  - Cybersecurity
+  - AI Applications
+  - System Administration
+  - Cloud Infrastructure
+
+languages:
+  - name: English
+    level: Native
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Ellerman Award for Outstanding Acadmic Achievment"
+    date: "2025"
+    subtitle: "Awarded to graduating senios in MIS that have demonstrated academic excellence in their MIS studies"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field
+
+certificates:
+  - title: "Business Analytics with Excel"
+    subtitle: Coursera
+    date: "2025"
+#    link: https://xkcd.com/605/
